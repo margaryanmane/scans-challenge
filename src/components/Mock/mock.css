@@ -1,0 +1,14 @@
+.mocks-box {
+  height: 400px
+}
+
+.box {
+    text-align: left;
+    border: rgb(70, 164, 226) solid 1px;
+    border-radius: 10px;
+    margin: 3px;
+    width: 320px;
+    padding-left: 10px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  }
+
